@@ -1,0 +1,18 @@
+
+QUESTION #1: Node.js runs on __________
+Client
+Server
+Both, server and client
+None of the above
+
+QUESTION #2: Node.js is ________ by default.
+Synchronous
+Multi-threaded
+Asynchronous
+None of the above
+
+QUESTION #3: Node.js supports which of the following platform?
+Windows
+Macintosh
+Unix/Linux
+All of the above
